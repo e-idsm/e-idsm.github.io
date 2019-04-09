@@ -7,6 +7,16 @@
 ## Durata: 	2018-2019
   	 
 ## Director de proiect: 	dr. Andrei Rusu
+
+## Echipa proiectului:
+- dr. hab. Nelly Țurcan (USM)
+- dr. Igor Cojocaru (IDSI)
+- drd. Mihai Grecu (IDSI)
+- drd. Cristina Antoci (IDSI)
+- drd. Rodica Cujbă (UTM)
+- drd. Anastasia Ștefăniță ()
+- cerc. Ion Coșuleanu (IDSI)
+- ec. Elizaveta Lemeț (IDSI)
   	 
 ### **Cuvinte cheie**: 	
 infrastructură de date, e-Infrastructură, date științifice, modele de date
